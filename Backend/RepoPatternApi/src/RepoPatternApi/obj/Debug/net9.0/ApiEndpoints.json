@@ -1,0 +1,1602 @@
+[
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "AddSection",
+    "RelativePath": "api/CategoryMapper/addsection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.SectionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "GetCategories",
+    "RelativePath": "api/CategoryMapper/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/CategoryMapper/deletecategory/{sectionId}/{categoryId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "DeleteSection",
+    "RelativePath": "api/CategoryMapper/deletesection/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "MapCategory",
+    "RelativePath": "api/CategoryMapper/mapcategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.CategoryMapperDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "GetSectionCategories",
+    "RelativePath": "api/CategoryMapper/sectioncategories/{sectionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "GetSections",
+    "RelativePath": "api/CategoryMapper/sections",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.CategoryMapperController",
+    "Method": "UpdateSection",
+    "RelativePath": "api/CategoryMapper/updatesection",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.SectionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.IngredientController",
+    "Method": "Insert",
+    "RelativePath": "api/extras",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.IngredientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.IngredientController",
+    "Method": "Update",
+    "RelativePath": "api/extras",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.IngredientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.IngredientController",
+    "Method": "Delete",
+    "RelativePath": "api/extras/{ingredient_id}/{shop_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingredient_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.IngredientController",
+    "Method": "GetById",
+    "RelativePath": "api/extras/detail/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.IngredientController",
+    "Method": "GetAll",
+    "RelativePath": "api/extras/list/{shop_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodApplyTaxController",
+    "Method": "GetAppliedTax",
+    "RelativePath": "api/FoodApplyTax/applied/{tax_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tax_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodApplyTaxController",
+    "Method": "ApplyTax",
+    "RelativePath": "api/FoodApplyTax/apply",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.ApplyTaxDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodApplyTaxController",
+    "Method": "RemoveTax",
+    "RelativePath": "api/FoodApplyTax/remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.ApplyTaxDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodCategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/FoodCategory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodCategoryController",
+    "Method": "Add",
+    "RelativePath": "api/FoodCategory/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "cate_name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cate_image",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cate_position",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodCategoryController",
+    "Method": "Delete",
+    "RelativePath": "api/FoodCategory/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodCategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/FoodCategory/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodCategoryController",
+    "Method": "Toggle",
+    "RelativePath": "api/FoodCategory/toggle/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodCategoryController",
+    "Method": "Update",
+    "RelativePath": "api/FoodCategory/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "cate_name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cate_image",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cate_position",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "CreateDeal",
+    "RelativePath": "api/FoodDeal/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RepoPatternApi.Domain.DTO.CreateFoodDealRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "DeleteDeal",
+    "RelativePath": "api/FoodDeal/delete/{dealId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "GetDealById",
+    "RelativePath": "api/FoodDeal/get-by-id/{dealId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "GetDealGroups",
+    "RelativePath": "api/FoodDeal/get-groups/{dealId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "GetTax",
+    "RelativePath": "api/FoodDeal/get-tax/{dealId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "GetAllDeals",
+    "RelativePath": "api/FoodDeal/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "UpdateDealImage",
+    "RelativePath": "api/FoodDeal/update-image/{dealId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "RepoPatternApi.Domain.DTO.DealImageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "UpdateDealStatus",
+    "RelativePath": "api/FoodDeal/update-status/{dealId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "RepoPatternApi.Domain.DTO.UpdateDealStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealController",
+    "Method": "UpdateDeal",
+    "RelativePath": "api/FoodDeal/update/{dealId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dealId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "RepoPatternApi.Domain.DTO.CreateFoodDealRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodDealTypeController",
+    "Method": "GetAllDealTypes",
+    "RelativePath": "api/FoodDealType/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RepoPatternApi.Domain.DTO.DealTypeResponse, RepoPatternApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "Add",
+    "RelativePath": "api/FoodItem/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodItemCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "Delete",
+    "RelativePath": "api/FoodItem/delete/{itemId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "GetItems",
+    "RelativePath": "api/FoodItem/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "GetItemByName",
+    "RelativePath": "api/FoodItem/get-item-by-name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "GetItemList",
+    "RelativePath": "api/FoodItem/get-item-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "GetItemNames",
+    "RelativePath": "api/FoodItem/get-item-names",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "GetItemById",
+    "RelativePath": "api/FoodItem/get-item/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "InsertItem",
+    "RelativePath": "api/FoodItem/insert-item",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.ItemInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "ToggleItemStatus",
+    "RelativePath": "api/FoodItem/toggle-status/{item_id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "UpdateItemCode",
+    "RelativePath": "api/FoodItem/update-item-code/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.UpdateItemCodeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "UpdateItemImage",
+    "RelativePath": "api/FoodItem/update-item-image/{item_id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "UpdateItem",
+    "RelativePath": "api/FoodItem/update-item/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.ItemInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemController",
+    "Method": "Update",
+    "RelativePath": "api/FoodItem/update/{itemId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodItemCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemCustomCategoryController",
+    "Method": "Delete",
+    "RelativePath": "api/FoodItemCustomCategory/delete/{cust_cat_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cust_cat_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemCustomCategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/FoodItemCustomCategory/getall/{shopId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemCustomCategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/FoodItemCustomCategory/getbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemCustomCategoryController",
+    "Method": "Insert",
+    "RelativePath": "api/FoodItemCustomCategory/insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodItemCustomCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemCustomCategoryController",
+    "Method": "Update",
+    "RelativePath": "api/FoodItemCustomCategory/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodItemCustomCategoryDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "category_id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemIngredientController",
+    "Method": "Insert",
+    "RelativePath": "api/FoodItemIngredient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodItemIngredientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemIngredientController",
+    "Method": "Update",
+    "RelativePath": "api/FoodItemIngredient",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodItemIngredientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemIngredientController",
+    "Method": "Delete",
+    "RelativePath": "api/FoodItemIngredient/{ingredient_id}/{shop_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingredient_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodItemIngredientController",
+    "Method": "Get",
+    "RelativePath": "api/FoodItemIngredient/{shop_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "CreateMenu",
+    "RelativePath": "api/FoodMenu/create-menu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RepoPatternApi.Domain.DTO.ShopMenuDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "DeleteItems",
+    "RelativePath": "api/FoodMenu/delete-items/{menuId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "DeleteTimings",
+    "RelativePath": "api/FoodMenu/delete-timings/{menuId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "Delete",
+    "RelativePath": "api/FoodMenu/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "GetAll",
+    "RelativePath": "api/FoodMenu/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "GetById",
+    "RelativePath": "api/FoodMenu/get-by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "GetItems",
+    "RelativePath": "api/FoodMenu/get-items/{menuId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "GetTimings",
+    "RelativePath": "api/FoodMenu/get-timings/{menuId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "InsertItems",
+    "RelativePath": "api/FoodMenu/insert-items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[RepoPatternApi.Domain.DTO.MenuItemDto, RepoPatternApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "InsertTimings",
+    "RelativePath": "api/FoodMenu/insert-timings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[RepoPatternApi.Domain.DTO.MenuTimingDto, RepoPatternApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "UpdateItems",
+    "RelativePath": "api/FoodMenu/update-items/{menuId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[RepoPatternApi.Domain.DTO.MenuItemDto, RepoPatternApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "UpdateMenu",
+    "RelativePath": "api/FoodMenu/update-menu/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "RepoPatternApi.Domain.DTO.ShopMenuDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodMenuController",
+    "Method": "UpdateTimings",
+    "RelativePath": "api/FoodMenu/update-timings/{menuId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[RepoPatternApi.Domain.DTO.MenuTimingDto, RepoPatternApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodPreferenceController",
+    "Method": "Add",
+    "RelativePath": "api/FoodPreference/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodPreferenceCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodPreferenceController",
+    "Method": "Delete",
+    "RelativePath": "api/FoodPreference/delete/{preferenceId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "preferenceId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodPreferenceController",
+    "Method": "Get",
+    "RelativePath": "api/FoodPreference/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodPreferenceController",
+    "Method": "Update",
+    "RelativePath": "api/FoodPreference/update/{preferenceId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "preferenceId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodPreferenceCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopSizeController",
+    "Method": "GetById",
+    "RelativePath": "api/FoodShopSize/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopSizeController",
+    "Method": "DeleteFoodShopSize",
+    "RelativePath": "api/FoodShopSize/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopSizeController",
+    "Method": "GetAllFoodShopSize",
+    "RelativePath": "api/FoodShopSize/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopSizeController",
+    "Method": "InsertFoodShopSize",
+    "RelativePath": "api/FoodShopSize/insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RepoPatternApi.Models.FoodShopSizeCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopSizeController",
+    "Method": "UpdateFoodShopSize",
+    "RelativePath": "api/FoodShopSize/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "RepoPatternApi.Application.DTOs.FoodShopSizeUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopTaxController",
+    "Method": "AddTax",
+    "RelativePath": "api/FoodShopTax/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodShopTaxDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopTaxController",
+    "Method": "DeleteTax",
+    "RelativePath": "api/FoodShopTax/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopTaxController",
+    "Method": "GetAllTax",
+    "RelativePath": "api/FoodShopTax/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.FoodShopTaxController",
+    "Method": "UpdateTax",
+    "RelativePath": "api/FoodShopTax/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.FoodShopTaxDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "GetTerminal",
+    "RelativePath": "api/kds/{shopId}/{terminalId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "terminalId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "GetCategories",
+    "RelativePath": "api/kds/categories/{shopId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "Create",
+    "RelativePath": "api/kds/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "terminalName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "foodCategoryId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "Delete",
+    "RelativePath": "api/kds/delete/{shopId}/{terminalId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "terminalId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "GetTerminals",
+    "RelativePath": "api/kds/terminals/{shopId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "GetAllTerminalsForShopNewAsync",
+    "RelativePath": "api/kds/terminalstest/{shopId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.API.Controllers.KdsController",
+    "Method": "Update",
+    "RelativePath": "api/kds/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "terminalId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "terminalName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "foodCategoryId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.MenuLanguageController",
+    "Method": "GetMenuLanguage",
+    "RelativePath": "api/MenuLanguage/get/{shop_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shop_id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.MenuLanguageController",
+    "Method": "UpdateMenuLanguage",
+    "RelativePath": "api/MenuLanguage/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.MenuLanguageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.MenuUploadController",
+    "Method": "UploadExcel",
+    "RelativePath": "api/MenuUpload/upload-excel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "shopId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.MyProfileController",
+    "Method": "Create",
+    "RelativePath": "api/MyProfile/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepoPatternApi.Domain.DTO.MyProfileCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepoPatternApi.Controllers.MyProfileController",
+    "Method": "GetSchema",
+    "RelativePath": "api/MyProfile/schema",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

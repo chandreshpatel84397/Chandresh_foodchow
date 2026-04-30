@@ -1,0 +1,1663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\menuuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\menuuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\excelmenuparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\excelmenuparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\categorymappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\categorymappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\repopatternapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\repopatternapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_category.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_item.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\fooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\fooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\foodmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\foodmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\foodmenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\foodmenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\menulanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\menulanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\foodcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\foodcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\foodshoptaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\foodshoptaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\foodshoptaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\foodshoptaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\foodapplytaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\foodapplytaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\toggleitemstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\toggleitemstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\iteminsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\iteminsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\kdsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\kdsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\foodapplytaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\foodapplytaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\categorymapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\categorymapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\categorymapperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\categorymapperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\icategorymapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\icategorymapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifooddealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifooddealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\fooditemingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\fooditemingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifooditemingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifooditemingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\shopmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\shopmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\foodmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\foodmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifoodmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifoodmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\fooddealtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\fooddealtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\fooddealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\fooddealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\dealtyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\dealtyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\createfooddealrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\createfooddealrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\fooddealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\fooddealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\fooddealtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\fooddealtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\fooditemingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\fooditemingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\fooditemcustomcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\fooditemcustomcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifooditemcustomcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifooditemcustomcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\fooditemcustomcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\fooditemcustomcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\fooditemingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\fooditemingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\entities\\fooditemingredientprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\entities\\fooditemingredientprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\entities\\fooditemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\entities\\fooditemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\foodshoptaxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\foodshoptaxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\foodshoptaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\foodshoptaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifoodshoptaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifoodshoptaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifoodshoptaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifoodshoptaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\createfoodcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\createfoodcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\models\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\models\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_sub_tax_amount.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifoodapplytaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifoodapplytaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ifoodapplytaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ifoodapplytaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\foodapplytaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\foodapplytaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\applytaxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\applytaxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Meet\\AppData\\Local\\Temp\\tma4cyaj..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\menulanguagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\menulanguagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\fooditemingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\fooditemingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\updateitemcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\updateitemcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\fooditemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\fooditemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\menulanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\menulanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\imenulanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\imenulanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\imenulanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\imenulanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\kdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\kdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ikdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ikdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\ikdsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\ikdsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_MSSQLSERVER02/foodchow_new/True/SqlTable/dbo.food_category.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\t44tgyaw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_MSSQLSERVER02/foodchow_new/True/SqlTable/dbo.food_menu_timings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_JFG0KR0O/foodchow/True/SqlTable/dbo.food_item_custom_category2.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DbStoredProcedureExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\EUMHMX59\\CommonRepository[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CommonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\models\\foodsubtaxamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\models\\foodsubtaxamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\models\\foodshoptax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\models\\foodshoptax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\myprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\myprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\myprofilecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\myprofilecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\myprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\myprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\imyprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\imyprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\myprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\myprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\entities\\fooditemcustomcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\entities\\fooditemcustomcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\fooditemcustomcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\fooditemcustomcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\affiniapaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\affiniapaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repositories\\kdsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repositories\\kdsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\affiniapaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\affiniapaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\services\\affiniapaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\services\\affiniapaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\data\\dbstoredprocedureexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\data\\dbstoredprocedureexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\iaffiniapaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\iaffiniapaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.application\\interfaces\\iaffiniapaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EAD1A6-F128-4336-BBAE-D653E382BD04}|src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj|solutionrelative:src\\repopatternapi.application\\interfaces\\iaffiniapaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\controllers\\kdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\controllers\\kdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.domain\\dto\\apibaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27BF055-458A-4E27-9113-4CFD7C8B7513}|src\\RepoPatternApi.Domain\\RepoPatternApi.Domain.csproj|solutionrelative:src\\repopatternapi.domain\\dto\\apibaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61BF32F5-1703-4CEA-B038-D73E75FA30FB}|src\\RepoPatternApi\\RepoPatternApi.csproj|solutionrelative:src\\repopatternapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|d:\\foodchowapi final123\\foodchowapi final\\foodchowapi\\repopatternapi\\src\\repopatternapi.infrastructure\\repopatternapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A54FBAA4-E49C-4FAF-83A6-64D243499757}|src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj|solutionrelative:src\\repopatternapi.infrastructure\\repopatternapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepoPatternApi.Application.csproj",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\RepoPatternApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T16:25:23.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuUploadController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\MenuUploadController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\MenuUploadController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\MenuUploadController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\MenuUploadController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:07:41.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryMapperController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\CategoryMapperController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\CategoryMapperController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\CategoryMapperController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\CategoryMapperController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelMenuParser.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\ExcelMenuParser.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\ExcelMenuParser.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\ExcelMenuParser.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\ExcelMenuParser.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T15:44:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.food_category.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_category.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_category.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-08T09:50:36.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Program.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Program.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Program.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:57:39.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.food_item.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_item.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_item.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-06T15:43:10.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodMenuRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodMenuRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodMenuRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodMenuRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodMenuRepository.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAAwLEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodMenuService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodMenuService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodMenuService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodMenuService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodMenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuLanguageService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\MenuLanguageService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\MenuLanguageService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\MenuLanguageService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\MenuLanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodItemDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\FoodItemDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\FoodItemDto.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodCategoryController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodCategoryController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodCategoryController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodCategoryController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodShopTaxRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodShopTaxRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodShopTaxRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodShopTaxRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodShopTaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:09:54.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FoodShopTaxController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodShopTaxController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodShopTaxController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodShopTaxController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodShopTaxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:08:45.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodApplyTaxController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodApplyTaxController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodApplyTaxController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodApplyTaxController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodApplyTaxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:08:22.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodItemController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodItemController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodItemController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodItemController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodItemController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwLYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFoodItemRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodItemRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\appsettings.json",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\appsettings.json",
+              "RelativeToolTip": "src\\RepoPatternApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T11:47:13.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FoodItemRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemRepository.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAswF0BAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToggleItemStatusDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ToggleItemStatusDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\ToggleItemStatusDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ToggleItemStatusDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\ToggleItemStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:36:11.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodItem.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodItem.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodItem.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodItem.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KdsDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\KdsDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\KdsDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\KdsDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\KdsDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ItemInsert.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ItemInsert.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\ItemInsert.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ItemInsert.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\ItemInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:52:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryMapperRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\ICategoryMapperRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\ICategoryMapperRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\ICategoryMapperRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\ICategoryMapperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryMapperRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\CategoryMapperRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\CategoryMapperRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\CategoryMapperRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\CategoryMapperRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FoodApplyTaxRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodApplyTaxRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodApplyTaxRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodApplyTaxRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodApplyTaxRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:11:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryMapperDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\CategoryMapperDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\CategoryMapperDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\CategoryMapperDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\CategoryMapperDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFoodDealRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodDealRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodDealRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodDealRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodDealRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FoodItemIngredientRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemIngredientRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemIngredientRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemIngredientRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodItemIngredientRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFoodItemIngredientRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodItemIngredientRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodItemIngredientRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodItemIngredientRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodItemIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FoodMenuController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodMenuController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodMenuController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodMenuController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodMenuController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:23:25.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IFoodMenuRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodMenuRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodMenuRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodMenuRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodMenuRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShopMenuDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ShopMenuDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\ShopMenuDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ShopMenuDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\ShopMenuDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:24:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FoodDealTypeRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealTypeRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealTypeRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealTypeRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:23:09.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DealTypeResponse.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\DealTypeResponse.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\DealTypeResponse.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\DealTypeResponse.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\DealTypeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:21:05.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FoodDealTypeController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodDealTypeController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodDealTypeController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodDealTypeController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodDealTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:19:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FoodDealService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodDealService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodDealService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodDealService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodDealService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FoodDealRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\FoodDealRepository.cs",
+              "ViewState": "AgIAALYBAAAAAAAAAAAcwDoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateFoodDealRequest.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\CreateFoodDealRequest.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\CreateFoodDealRequest.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\CreateFoodDealRequest.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\CreateFoodDealRequest.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IngredientRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\IngredientRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\IngredientRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\IngredientRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\IngredientRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:48:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FoodItemIngredientDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemIngredientDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\FoodItemIngredientDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemIngredientDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\FoodItemIngredientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IngredientService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\IngredientService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\IngredientService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\IngredientService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\IngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:47:00.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FoodItemCustomCategoryService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodItemCustomCategoryService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodItemCustomCategoryService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodItemCustomCategoryService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodItemCustomCategoryService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwEMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IFoodItemCustomCategoryRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodItemCustomCategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodItemCustomCategoryRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodItemCustomCategoryRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodItemCustomCategoryRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAEBdwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FoodItemCustomCategoryController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodItemCustomCategoryController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodItemCustomCategoryController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodItemCustomCategoryController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodItemCustomCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IngredientController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\IngredientController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\IngredientController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\IngredientController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\IngredientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:45:02.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FoodItemIngredientService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodItemIngredientService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodItemIngredientService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodItemIngredientService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodItemIngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FoodItemIngredientPrice.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredientPrice.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredientPrice.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredientPrice.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredientPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:48:17.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FoodItemIngredient.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredient.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredient.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredient.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\Entities\\FoodItemIngredient.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:47:54.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IngredientDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\IngredientDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\IngredientDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\IngredientDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\IngredientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:47:28.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IIngredientService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IIngredientService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IIngredientService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IIngredientService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IIngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:46:37.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IIngredientRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IIngredientRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IIngredientRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IIngredientRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:46:03.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FoodShopTaxService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodShopTaxService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodShopTaxService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodShopTaxService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodShopTaxService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBZwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:17:26.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FoodShopTaxDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodShopTaxDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\FoodShopTaxDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodShopTaxDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\FoodShopTaxDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:11:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IFoodShopTaxService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:16:12.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IFoodShopTaxRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodShopTaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:15:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateFoodCategoryDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\CreateFoodCategoryDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\CreateFoodCategoryDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\CreateFoodCategoryDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\CreateFoodCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Models\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Models\\FoodCategory.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Models\\FoodCategory.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Models\\FoodCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dbo.food_sub_tax_amount.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_sub_tax_amount.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MEET_SQLEXPRESS/foodchow_new/True/SqlTable/dbo.food_sub_tax_amount.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-02T13:27:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IFoodApplyTaxService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:14:57.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IFoodApplyTaxRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IFoodApplyTaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:14:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FoodApplyTaxService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodApplyTaxService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\FoodApplyTaxService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\FoodApplyTaxService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\FoodApplyTaxService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:16:55.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ApplyTaxDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ApplyTaxDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\ApplyTaxDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ApplyTaxDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\ApplyTaxDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "tma4cyaj..sql",
+              "DocumentMoniker": "C:\\Users\\Meet\\AppData\\Local\\Temp\\tma4cyaj..sql",
+              "ToolTip": "C:\\Users\\Meet\\AppData\\Local\\Temp\\tma4cyaj..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-01T17:30:33.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MenuLanguageDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\MenuLanguageDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\MenuLanguageDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\MenuLanguageDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\MenuLanguageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FoodItemIngredientController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodItemIngredientController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\FoodItemIngredientController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\FoodItemIngredientController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\FoodItemIngredientController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FoodItemCode.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemCode.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\FoodItemCode.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemCode.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\FoodItemCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UpdateItemCodeDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\UpdateItemCodeDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\UpdateItemCodeDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\UpdateItemCodeDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\UpdateItemCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MenuLanguageRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\MenuLanguageRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\MenuLanguageRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\MenuLanguageRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\MenuLanguageRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAEBdwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IMenuLanguageRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IMenuLanguageService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IMenuLanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "KdsService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\KdsService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\KdsService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\KdsService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\KdsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IKdsRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IKdsRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IKdsRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IKdsRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IKdsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IKdsService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IKdsService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IKdsService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IKdsService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IKdsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "dbo.food_category.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_MSSQLSERVER02/foodchow_new/True/SqlTable/dbo.food_category.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_MSSQLSERVER02/foodchow_new/True/SqlTable/dbo.food_category.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-24T10:47:15.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "t44tgyaw..sql",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\t44tgyaw..sql",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\t44tgyaw..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-24T05:49:21.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FoodShopTax.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Models\\FoodShopTax.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Models\\FoodShopTax.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Models\\FoodShopTax.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Models\\FoodShopTax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FoodSubTaxAmount.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Models\\FoodSubTaxAmount.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Models\\FoodSubTaxAmount.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Models\\FoodSubTaxAmount.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Models\\FoodSubTaxAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "dbo.food_menu_timings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_MSSQLSERVER02/foodchow_new/True/SqlTable/dbo.food_menu_timings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_MSSQLSERVER02/foodchow_new/True/SqlTable/dbo.food_menu_timings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-11T10:50:36.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MyProfileRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\MyProfileRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\MyProfileRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\MyProfileRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\MyProfileRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MyProfileCreateDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\MyProfileCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\MyProfileCreateDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\MyProfileCreateDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\MyProfileCreateDto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA2wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "MyProfileService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\MyProfileService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\MyProfileService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\MyProfileService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\MyProfileService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IMyProfileRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IMyProfileRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IMyProfileRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IMyProfileRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IMyProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "MyProfileController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\MyProfileController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\MyProfileController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\MyProfileController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\MyProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "categoryresponseDTO.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\categoryresponseDTO.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\categoryresponseDTO.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\categoryresponseDTO.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\categoryresponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "FoodItemCustomCategory.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\Entities\\FoodItemCustomCategory.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\Entities\\FoodItemCustomCategory.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\Entities\\FoodItemCustomCategory.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\Entities\\FoodItemCustomCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "dbo.food_item_custom_category2.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_JFG0KR0O/foodchow/True/SqlTable/dbo.food_item_custom_category2.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_JFG0KR0O/foodchow/True/SqlTable/dbo.food_item_custom_category2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-02T10:28:52.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "FoodItemCustomCategoryDto.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemCustomCategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\FoodItemCustomCategoryDto.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\FoodItemCustomCategoryDto.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\FoodItemCustomCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AffiniaPaymentRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\AffiniaPaymentRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\AffiniaPaymentRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\AffiniaPaymentRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\AffiniaPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "KdsRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\KdsRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Repositories\\KdsRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Repositories\\KdsRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Repositories\\KdsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AffiniaPaymentController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\AffiniaPaymentController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\AffiniaPaymentController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\AffiniaPaymentController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\AffiniaPaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AffiniaPaymentService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\AffiniaPaymentService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Services\\AffiniaPaymentService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Services\\AffiniaPaymentService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Services\\AffiniaPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DbStoredProcedureExecutor.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Data\\DbStoredProcedureExecutor.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\Data\\DbStoredProcedureExecutor.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\Data\\DbStoredProcedureExecutor.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\Data\\DbStoredProcedureExecutor.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAABhwBQBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "IAffiniaPaymentRepository.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentRepository.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentRepository.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentRepository.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "IAffiniaPaymentService.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentService.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentService.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentService.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Application\\Interfaces\\IAffiniaPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "KdsController.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\KdsController.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Controllers\\KdsController.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Controllers\\KdsController.cs",
+              "RelativeToolTip": "src\\RepoPatternApi\\Controllers\\KdsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ApiBaseResponse.cs",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ApiBaseResponse.cs",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Domain\\DTO\\ApiBaseResponse.cs",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Domain\\DTO\\ApiBaseResponse.cs",
+              "RelativeToolTip": "src\\RepoPatternApi.Domain\\DTO\\ApiBaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:47:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\RepoPatternApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T11:47:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CommonRepository[1].cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\EUMHMX59\\CommonRepository[1].cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\EUMHMX59\\CommonRepository[1].cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:14:12.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "RepoPatternApi.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj",
+              "ToolTip": "D:\\FoodChowAPI final123\\FoodChowAPI final\\FoodChowAPI\\RepoPatternApi\\src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj",
+              "RelativeToolTip": "src\\RepoPatternApi.Infrastructure\\RepoPatternApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T11:47:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CommonRepository.cs",
+              "DocumentMoniker": "D:\\CommonRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CommonRepository.cs",
+              "ToolTip": "D:\\CommonRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\CommonRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:11:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DbStoredProcedureExecutor.cs",
+              "DocumentMoniker": "D:\\DbStoredProcedureExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DbStoredProcedureExecutor.cs",
+              "ToolTip": "D:\\DbStoredProcedureExecutor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DbStoredProcedureExecutor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:16:15.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

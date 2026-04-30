@@ -1,0 +1,24 @@
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\bin\Debug\net9.0\RepoPatternApi.Domain.deps.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.csproj.AssemblyReference.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.AssemblyInfoInputs.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.AssemblyInfo.cs
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.csproj.CoreCompileInputs.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\refint\RepoPatternApi.Domain.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\ref\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\bin\Debug\net9.0\RepoPatternApi.Domain.deps.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.AssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\refint\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi.Domain\obj\Debug\net9.0\ref\RepoPatternApi.Domain.dll

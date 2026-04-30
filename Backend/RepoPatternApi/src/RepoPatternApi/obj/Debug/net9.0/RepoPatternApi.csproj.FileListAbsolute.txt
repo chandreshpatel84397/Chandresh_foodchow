@@ -1,0 +1,759 @@
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets\msbuild.RepoPatternApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets\msbuild.RepoPatternApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets\msbuild.build.RepoPatternApi.props
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RepoPatternApi.props
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RepoPatternApi.props
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+C:\Users\kunal\Desktop\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+D:\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+D:\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Received Files\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Dapper.dll
+C:\Users\admin\Downloads\FoodChowAPI final (2)\FoodChowAPI final (5)\FoodChowAPI final (2)\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Dapper.SqlBuilder.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\libman.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.runtime.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Dapper.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Dapper.SqlBuilder.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\EPPlus.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\swae.build.ex.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+D:\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\appsettings.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\libman.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.runtime.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.staticwebassets.endpoints.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.exe
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.deps.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.runtimeconfig.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Dapper.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Dapper.SqlBuilder.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\EPPlus.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\EPPlus.Interfaces.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Application.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Infrastructure.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\bin\Debug\net9.0\RepoPatternApi.Domain.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.AssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\scopedcss\bundle\RepoPatternApi.styles.css
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatt.CFBA4C02.Up2Date
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\refint\RepoPatternApi.dll
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.pdb
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\RepoPatternApi.genruntimeconfig.cache
+C:\Users\admin\Downloads\FoodChowAPI final123 (5)\FoodChowAPI final123\FoodChowAPI final\FoodChowAPI\RepoPatternApi\src\RepoPatternApi\obj\Debug\net9.0\ref\RepoPatternApi.dll
