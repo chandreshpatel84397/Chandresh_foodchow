@@ -1,41 +1,145 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍔 Food Chow – Full Stack Food Ordering System
 
-## Getting Started
+## 📌 Overview
 
-First, run the development server:
+Food Chow is a full-stack food ordering web application where users can browse food items, add them to cart, and place orders.
+
+This project includes:
+
+* 🌐 Frontend (Next.js)
+* 🔗 Backend (ASP.NET Core Web API)
+* 🗄️ Database (SQL Server / your DB)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+
+* Next.js
+* React.js
+* CSS / Tailwind
+
+### Backend:
+
+* ASP.NET Core Web API
+* C#
+* Entity Framework Core
+
+---
+
+## 📁 Project Structure
+
+foodchow/
+├── app/ → Next.js application
+├── backend/ → ASP.NET Core API
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally 👇
+
+---
+
+## 🚀 1. Clone Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/chandreshpatel84397/Chandresh_foodchow.git
+cd Chandresh_foodchow
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌐 2. Frontend Setup (Next.js)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-## Learn More
+👉 Frontend will run on:
+http://localhost:3000
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔗 3. Backend Setup (ASP.NET Core)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+cd backend
+dotnet restore
+dotnet build
+dotnet run
+```
 
-## Deploy on Vercel
+👉 Backend will run on:
+http://localhost:5000 or https://localhost:5001
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Chandresh_foodchow
-Online restaurant Management System (Admin panel) 
->>>>>>> 2660ec1aa75eea5bbedb1e316b3c21d237f1f0ab
+## 🔌 4. API Integration
+
+Make sure frontend API calls point to backend URL:
+
+Example:
+
+```js
+http://localhost:5000/api/
+```
+
+---
+
+## 🗄️ 5. Database Setup
+
+* Configure connection string in:
+  appsettings.json
+
+Example:
+
+```json
+"ConnectionStrings": {
+  "DefaultConnection": "your_database_connection_string"
+}
+```
+
+* Run migrations:
+
+```bash
+dotnet ef database update
+```
+
+---
+
+## ✨ Features
+
+* 🔐 User Authentication (Login/Signup)
+* 🍽️ Browse Food Items
+* 🛒 Add to Cart
+* 📦 Order Placement
+* 🧾 Admin Panel (Add/Edit/Delete Items)
+
+---
+
+## 📸 Screenshots
+
+(Add your project screenshots here)
+
+---
+
+## 🤝 Contribution
+
+Feel free to fork and improve this project.
+
+---
+
+## 📧 Contact
+
+Developer: Chandresh
+For any queries, feel free to reach out.
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
