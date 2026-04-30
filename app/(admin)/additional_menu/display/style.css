@@ -1,0 +1,269 @@
+body {
+  font-family: "Segoe UI", Arial;
+  background: #f4f6f8;
+}
+
+/* CONTAINER */
+.container {
+  width: 92%;
+  margin: 30px auto;
+}
+
+/* TOP BAR */
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-bar h2 {
+  font-weight: 600;
+}
+
+/* BUTTONS */
+.add-btn,
+.help-btn {
+  background: #16a085;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  margin-left: 10px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.add-btn:hover,
+.help-btn:hover {
+  background: #138d75;
+}
+
+/* TABLE WRAPPER */
+.menu-table {
+  margin-top: 25px;
+  background: #eaeaea;
+  padding: 20px;
+  border-radius: 18px;
+}
+
+/* HEADER */
+.header-row {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1.5fr 2fr 1fr;
+  padding: 15px 20px;
+  font-weight: 600;
+  color: #333;
+}
+
+
+
+/* ROW */
+.menu-row {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1.5fr 2fr 1fr;
+  background: #ffffff;
+  padding: 18px 20px;
+  border-radius: 16px;
+  margin-top: 12px;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* MENU NAME */
+.menu-name {
+  font-size: 15px;
+}
+
+/* ICON BUTTONS */
+.circle-btn {
+  background: #16a085;
+  color: white;
+  border-radius: 50%;
+  width: 38px;
+  height: 38px;
+  border: none;
+  cursor: pointer;
+}
+
+.rect-btn {
+  background: #16a085;
+  border-radius: 10px;
+  width: 45px;
+  height: 38px;
+  border: none;
+  cursor: pointer;
+}
+
+/* QR */
+.qr-icon {
+  width: 42px;
+  height: 42px;
+  background: #4a4a4a;
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+}
+
+.qr-icon img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+/* DELETE */
+.delete-btn {
+  background: #c52d25;
+  color: white;
+  border-radius: 50px;
+  width: 45px;
+  height: 38px;
+  border: none;
+  cursor: pointer;
+}
+
+/* CHECKBOX GROUP */
+.check-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  /* 🔥 ADD THIS */
+  align-items: flex-start;
+  gap: 6px;
+}
+
+/* CUSTOM CHECKBOX */
+.custom-check {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.custom-check input {
+  display: none;
+}
+
+.custom-check span {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #16a085;
+  border-radius: 5px;
+  display: inline-block;
+  position: relative;
+}
+
+/* CHECKED STYLE */
+.custom-check input:checked + span {
+  background: #16a085;
+}
+
+/* CHECK ICON */
+.custom-check input:checked + span::after {
+  content: "✔";
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  top: 0;
+  left: 4px;
+}
+/* COMMON ICON BUTTON STYLE */
+.circle-btn,
+.rect-btn,
+.delete-btn,
+.qr-icon {
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* EDIT ICON (CIRCLE) */
+.circle-btn {
+  background: #16a085;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+
+/* VIEW ICON (RECTANGLE) */
+.rect-btn {
+  background: #16a085;
+  width: 48px;
+  height: 42px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+
+/* QR ICON (DARK BOX) */
+
+
+/* DELETE ICON */
+.delete-btn {
+  background: #ef0000;
+  width: 42px;
+  height: 42px;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+
+/* HOVER EFFECT (OPTIONAL BUT NICE) */
+.circle-btn:hover,
+.rect-btn:hover {
+  background: #138d75;
+}
+
+.delete-btn:hover {
+  background: #e02b20;
+}
+
+.qr-icon:hover {
+  background: #333;
+}
+
+.header-row > div,
+.menu-row > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}.header-row > div:first-child,
+.menu-row > div:first-child {
+  justify-content: flex-start;
+}
+.check-group {
+  align-items: flex-start;
+}
+
+.header-row,
+.menu-row {
+  column-gap: 10px;
+}
+
+.menu-row > div:nth-child(5) {
+  justify-content: center;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between; /* pushes left & right */
+  margin-top: 20px;
+}
+
+.previous, .next {
+  background: #1abc9c;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+}

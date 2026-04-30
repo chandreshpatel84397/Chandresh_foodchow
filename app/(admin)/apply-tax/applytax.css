@@ -1,0 +1,82 @@
+.pageWrapper{
+  min-height:100vh;
+  background:#f3f4f8;
+  padding:40px;
+}
+
+.card{
+  background:white;
+  border-radius:20px;
+  padding:40px;
+  box-shadow:0 4px 20px rgba(0,0,0,0.05);
+}
+
+.headerRow{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:30px;
+}
+
+.headerRow h2{
+  font-size:28px;
+  color:#2f3e4d;
+}
+
+.helpBtn{
+  background:#1abc9c;
+  color:white;
+  border:none;
+  padding:10px 18px;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+table{
+  width:100%;
+  border-collapse:separate;
+  border-spacing:0 14px;
+}
+
+thead th{
+  background:#ddd;
+  padding:15px;
+}
+
+tbody tr{
+  background:#f1f1f1;
+}
+
+tbody td{
+  padding:18px;
+  text-align:center;
+}
+
+.applyBtn{
+  background:#1abc9c;
+  color:white;
+  border:none;
+  padding:10px 20px;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+.disabledBtn{
+  background:#ccc;
+  cursor:not-allowed;
+}
+
+.footerRow{
+  display:flex;
+  justify-content:space-between;
+  margin-top:30px;
+}
+
+.navBtn{
+  background:#1abc9c;
+  color:white;
+  border:none;
+  padding:12px 25px;
+  border-radius:8px;
+  cursor:pointer;
+}

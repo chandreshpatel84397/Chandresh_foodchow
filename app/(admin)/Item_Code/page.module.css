@@ -1,0 +1,104 @@
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 24px 28px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px;
+}
+
+.table th {
+  width: 50%;
+  text-align: left;
+  padding: 12px;
+  background: #e5e7eb;
+  border-radius: 6px;
+}
+
+/* Action column */
+.table th:last-child,
+.table td:last-child {
+  width: 150px;
+  text-align: center;
+}
+
+.table td {
+  background: white;
+  padding: 12px;
+  border-radius: 6px;
+}
+
+.input {
+  width: 80px;
+  padding: 6px;
+  border: 1px solid #14b8a6;
+  border-radius: 6px;
+  text-align: center;
+}
+
+/* Disabled input */
+.input:disabled {
+  background: #e5e7eb;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+/* Save button */
+.saveBtn {
+  background: #14b8a6;
+  color: white;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.saveBtn:hover {
+  background: #0f9f96;
+}
+
+/* Edit button */
+.editBtn {
+  background: #14b8a6;
+  color: white;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.editBtn:hover {
+  background: #4b5563;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between; /* pushes left & right */
+  margin-top: 20px;
+}
+
+.previous, .next {
+  background: #1fb5ad;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+}

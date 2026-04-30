@@ -1,0 +1,135 @@
+.pageWrapper {
+  min-height: 100vh;
+  background: #f3f4f8;
+  padding: 40px;
+}
+
+/* CARD */
+
+.card {
+  background: white;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
+
+/* HEADER */
+
+.headerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 35px;
+}
+
+.headerRow h2 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #2f3e4d;
+}
+
+/* HEADER RIGHT SIDE */
+
+.headerActions {
+  display: flex;
+  gap: 15px;
+}
+
+/* BUTTONS */
+
+.addBtn {
+  background: #1abc9c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.addBtn:hover {
+  background: #16a085;
+}
+
+.helpBtn {
+  background: #1abc9c;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* TABLE */
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 14px;
+}
+
+thead th {
+  background: #dcdcdc;
+  padding: 16px;
+  font-size: 15px;
+  color: #2f3e4d;
+}
+
+tbody tr {
+  background: #f1f1f1;
+  border-radius: 12px;
+}
+
+tbody td {
+  padding: 18px;
+  text-align: center;
+  font-size: 15px;
+}
+
+/* ACTION BUTTONS */
+
+.actionCell {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.editBtn {
+  width: 42px;
+  height: 42px;
+  background: #1abc9c;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.deleteBtn {
+  width: 42px;
+  height: 42px;
+  background: #2f3e4d;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* FOOTER */
+
+.footerRow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.navBtn {
+  background: #1abc9c;
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}

@@ -1,0 +1,115 @@
+/* ========================= */
+/* CARD */
+/* ========================= */
+
+.card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Desktop padding */
+@media (min-width: 768px) {
+  .card {
+    padding: 30px 40px;
+  }
+}
+
+/* ========================= */
+/* HEADING */
+/* ========================= */
+
+.card h2 {
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .card h2 {
+    font-size: 22px;
+  }
+}
+
+/* LABEL */
+
+.label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+/* INPUT */
+
+.input {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+/* STATUS GROUP */
+
+.status-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+@media (min-width: 768px) {
+  .status-group {
+    flex-direction: row;
+    gap: 25px;
+  }
+}
+
+/* BUTTON GROUP */
+
+.btn-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (min-width: 768px) {
+  .btn-group {
+    flex-direction: row;
+    gap: 15px;
+  }
+}
+
+/* BUTTONS */
+
+
+.btn-add,
+.btn-cancel {
+  width: 100%;
+  padding: 10px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  .btn-add,
+  .btn-cancel {
+    width: auto;
+  }
+}
+
+.btn-add {
+  background-color: #0aa89e;
+  color: white;
+}
+
+.btn-cancel {
+  background-color: #e5e5e5;
+  color: #333;
+}

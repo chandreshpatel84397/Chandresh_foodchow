@@ -1,0 +1,258 @@
+/* ===============================
+   TAILWIND RESET OVERRIDES
+   (SCOPED – SAFE)
+================================ */
+
+/* Buttons */
+button {
+  all: unset;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+/* Text-like inputs ONLY */
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="url"],
+input[type="tel"],
+input:not([type]) {
+  all: unset;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #cfcfcf;
+  border-radius: 6px;
+  background: #fff;
+  font-size: 14px;
+}
+
+/* Restore checkbox defaults */
+input[type="checkbox"] {
+  all: revert;
+  accent-color: #14b8a6;
+  cursor: pointer;
+}
+
+/* Labels */
+label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 6px;
+  color: #000;
+}
+
+/* ===============================
+   PAGE LAYOUT
+================================ */
+
+.page-wrapper {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 30px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* ===============================
+   HEADER
+================================ */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.back-btn,
+.help-btn {
+  background: #14b8a6;
+  color: #fff;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.back-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* ===============================
+   STEPPER
+================================ */
+
+.stepper-wrapper {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.step-box {
+  width: 34px;
+  height: 34px;
+  border-radius: 6px;
+  background: #e5e5e5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: #000;
+}
+
+.step-box.active {
+  background: #14b8a6;
+  color: #fff;
+}
+
+.step-box.completed {
+  background: #bff1ec;
+  color: #0f766e;
+}
+
+/* ===============================
+   CARD
+================================ */
+
+.card {
+  background: #f2f2f2;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+.card-title {
+  color: #14b8a6;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+/* ===============================
+   FORM LAYOUT
+================================ */
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px 24px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Primary button */
+.primary-btn {
+  margin-top: 25px;
+  background: #14b8a6;
+  color: #fff;
+  padding: 10px 28px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+/* ===============================
+   STEP 2 – OTHER INFO
+================================ */
+
+.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+/* Checkbox grid (Restaurant Type) */
+.checkbox-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(140px, 1fr));
+  gap: 10px 20px;
+  margin-top: 6px;
+}
+
+.checkbox-grid label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+
+/* ===============================
+   CUISINES SELECT
+================================ */
+
+.select-box {
+  position: relative;
+}
+
+.chips-input {
+  border: 1px solid #14b8a6;
+  min-height: 46px;
+  padding: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.chips-input input {
+  border: none;
+  outline: none;
+  flex: 1;
+  min-width: 120px;
+}
+
+/* Cuisine chip */
+.chip {
+  background: #14b8a6;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.chip-remove {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Dropdown */
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  max-height: 180px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  background: #fff;
+  z-index: 20;
+}
+
+.dropdown-item {
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background: #2563eb;
+  color: #fff;
+}
+
+/* ===============================
+   CURRENCY
+================================ */
+
+.currency {
+  width: 300px;
+  margin-top: 15px;
+}

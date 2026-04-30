@@ -1,0 +1,201 @@
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 24px 28px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+/* ================= HEADER ================= */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.title {
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin-top: 6px;
+  color: #555;
+}
+
+.headerActions {
+  display: flex;
+  gap: 12px;
+}
+
+/* ================= BUTTONS ================= */
+.addBtn,
+.helpBtn {
+  background: #11b5a4;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.helpBtn {
+  background: #0fa294;
+}
+
+.addBtn:hover,
+.helpBtn:hover {
+  background-color: #16dcc8;
+}
+
+/* ================= TABLE HEADER ================= */
+.tableHeader {
+  margin-top: 28px;
+  background: #e6e6e6;
+  padding: 14px 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+  color: #333;
+}
+
+/* ================= LIST ================= */
+.list {
+  margin-top: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+/* ================= ROW ================= */
+.row {
+  background: #f6f6f6;
+  padding: 18px 22px;
+  border-radius: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.choiceName {
+  font-size: 16px;
+  word-break: break-word;
+}
+
+/* ================= ACTIONS ================= */
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+/* ================= ICON BUTTONS ================= */
+.editBtn,
+.deleteBtn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.editBtn {
+  background: #11b5a4;
+  color: white;
+}
+
+.deleteBtn {
+  background: #222;
+  color: white;
+}
+
+/* ================= TOGGLE ================= */
+.toggle {
+  width: 50px;
+  height: 26px;
+  background: #cfcfcf;
+  border-radius: 30px;
+  position: relative;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.toggle span {
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  transition: left 0.3s ease;
+}
+
+.active {
+  background: #11b5a4;
+}
+
+.active span {
+  left: 26px;
+}
+
+/* ================= STATES ================= */
+.loading,
+.noData {
+  margin-top: 30px;
+  text-align: center;
+  color: #666;
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .headerActions {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .addBtn,
+  .helpBtn {
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .tableHeader {
+    display: none;
+  }
+
+  .row {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .choiceName {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .actions {
+    justify-content: center;
+    width: 100%;
+  }
+}

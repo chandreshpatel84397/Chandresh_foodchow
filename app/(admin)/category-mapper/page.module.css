@@ -1,0 +1,251 @@
+.pageWrapper {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 24px;
+}
+.container {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  padding: 0;        /* ← remove old padding */
+}
+
+.leftPanel{
+width:400px;
+min-width:350px;
+border:1px solid #ddd;
+padding:15px;
+border-radius:8px;
+background:#fff;
+}
+
+.categoryItem{
+padding:12px;
+margin-bottom:10px;
+border:1px solid #1fb5ad;
+border-radius:6px;
+cursor:grab;
+background:#fafafa;
+}
+
+.rightPanel{
+flex:1;
+max-width:800px;
+}
+
+.addSectionBtn{
+padding:10px 16px;
+background:#1fb5ad;
+color:white;
+border:none;
+border-radius:6px;
+margin-bottom:20px;
+cursor:pointer;
+}
+
+.sectionBox{
+border:1px solid #1fb5ad;
+border-radius:8px;
+margin-bottom:20px;
+padding:10px;
+}
+
+.sectionHeader{
+font-weight:bold;
+margin-bottom:10px;
+}
+
+.dropArea{
+min-height:80px;
+border:1px dashed #ccc;
+padding:10px;
+border-radius:6px;
+}
+
+
+.mappedCategory{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:8px;
+border:1px solid #ccc;
+margin-bottom:6px;
+border-radius:6px;
+background:#f9f9f9;
+}
+
+.deleteBtn{
+background:red;
+color:white;
+border:none;
+padding:5px 8px;
+border-radius:4px;
+cursor:pointer;
+}
+.dragIcon{
+margin-right:8px;
+cursor:grab;
+}
+.sectionHeader{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:10px;
+font-weight:600;
+}
+
+.sectionActions{
+display:flex;
+gap:8px;
+}
+
+.editBtn{
+background:#0aa;
+color:white;
+border:none;
+padding:4px 8px;
+border-radius:4px;
+cursor:pointer;
+}
+
+.deleteSectionBtn{
+background:red;
+color:white;
+border:none;
+padding:4px 8px;
+border-radius:4px;
+cursor:pointer;
+}
+.searchHeader{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:10px;
+}
+
+.searchBox{
+display:flex;
+align-items:center;
+gap:5px;
+}
+
+.searchInput{
+padding:6px 10px;
+border:1px solid #ccc;
+border-radius:6px;
+outline:none;
+}
+
+.searchBtn{
+background:#0aa;
+color:white;
+border:none;
+padding:6px 10px;
+border-radius:6px;
+cursor:pointer;
+}
+.bottomNav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-top:40px;
+padding:20px;
+}
+
+.prevBtn{
+background:#1fb5ad;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:6px;
+cursor:pointer;
+}
+
+.nextBtn{
+background:#1fb5ad;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:6px;
+cursor:pointer;
+}
+
+.stepBox{
+text-align:center;
+border:1px dashed #ccc;
+padding:10px 15px;
+border-radius:6px;
+font-size:14px;
+}
+
+.stepBox span{
+font-weight:bold;
+}
+
+.topActions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+/* SAME HEIGHT FOR BOTH */
+.addSectionBtn,
+.helpBtn {
+  background-color: #1fb5ad;
+  color: white;
+  padding: 10px 20px;   /* SAME padding */
+  border: none;
+  border-radius: 6px;   /* SAME shape */
+  font-weight: 600;
+  cursor: pointer;
+  height: 40px;         /* FORCE SAME HEIGHT */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* OPTIONAL: remove oval look */
+.helpBtn {
+  border-radius: 6px;   /* remove round pill */
+}
+
+/* MODAL */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90%;
+  max-width: 800px;
+}
+
+.closeBtn {
+  float: right;
+  background: red;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.dropArea:hover {
+  border-color: #1fb5ad;
+  background: #f0fffd;
+}

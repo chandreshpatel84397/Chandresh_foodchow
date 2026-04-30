@@ -1,0 +1,362 @@
+/* ================= GLOBAL ================= */
+.wrapper {
+  min-height: 100vh;
+  background: #f4f6f9;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* ================= TOPBAR ================= */
+.topbar {
+  height: 64px;
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 1px solid #e3e6ed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px 0 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  overflow: visible;
+  box-sizing: border-box;
+}
+
+.topLeft {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.topAdmin {
+  font-size: 20px;
+  font-weight: 700;
+  color: #0ea5a4;
+}
+
+.menuBtn {
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+  color: #333;
+}
+
+.topRight {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  margin-left: auto;
+  padding-right: 4px;
+}
+
+.ticketBtn {
+  background: #0ea5a4;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.viewSelect {
+  padding: 7px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 13px;
+  flex-shrink: 0;
+}
+
+.adminName {
+  color: #0ea5a4;
+  font-weight: 600;
+  font-size: 13px;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.profileBtn {
+  background: #0ea5a4;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  min-width: fit-content;
+}
+
+/* ================= BODY LAYOUT ================= */
+.body {
+  display: flex;
+  margin-top: 64px;
+  min-height: calc(100vh - 64px);
+}
+
+/* ================= BLACK ICON SIDEBAR ================= */
+.iconSidebar {
+  position: fixed;
+  top: 64px;
+  left: 0;
+  width: 80px;
+  height: calc(100vh - 64px);
+  background: #1f2937;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  gap: 2px;
+  z-index: 999;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.iconItem {
+  width: 100%;
+  text-align: center;
+  color: #9ca3af;
+  font-size: 11px;
+  padding: 12px 6px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+}
+
+.icon {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.iconActive {
+  background: #0ea5a4;
+  color: #ffffff;
+}
+
+.iconItem:hover {
+  background: #374151;
+  color: #ffffff;
+}
+
+.iconActive:hover {
+  background: #0ea5a4;
+  color: #ffffff;
+}
+
+/* ================= WHITE SIDEBAR ================= */
+.sidebar {
+  position: fixed;
+  top: 64px;
+  left: 80px;
+  width: 210px;
+  height: calc(100vh - 64px);
+  background: #ffffff;
+  padding: 20px 16px 20px 18px;
+  border-right: 1px solid #e8eaf0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  transition: transform 0.3s ease;
+  z-index: 998;
+}
+
+.sidebarClosed {
+  transform: translateX(-290px);
+}
+
+/* "Setup" teal heading */
+.setup {
+  display: block;
+  font-weight: 700;
+  font-size: 16px;
+  color: #0ea5a4;
+  margin-bottom: 6px;
+}
+
+/* "My Restaurant" dark bold label */
+.sectionLabel {
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 12px;
+}
+
+/* ================= NAV MENU ================= */
+.menu {
+  position: relative;
+}
+
+/* Vertical dashed line */
+.menuList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 2px dashed #b2dfdf;
+  margin-left: 8px;
+}
+
+.menuList li {
+  position: relative;
+}
+
+/* All nav links */
+.menuList li a {
+  display: block;
+  padding: 7px 8px 7px 18px;
+  color: #4b5563;
+  text-decoration: none;
+  font-size: 13.5px;
+  line-height: 1.4;
+  transition: color 0.15s;
+}
+
+.menuList li a:hover {
+  color: #0ea5a4;
+}
+
+/* Active item: teal dot on the line */
+.activeItem > a {
+  color: #0ea5a4 !important;
+  font-weight: 700;
+}
+
+.activeItem::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #0ea5a4;
+  z-index: 1;
+}
+
+/* "Extras" bold non-link label */
+.extrasLabel {
+  display: block;
+  padding: 7px 8px 4px 18px;
+  font-size: 13.5px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+/* Sub-items under Extras */
+.submenuList {
+  list-style: none;
+  margin: 0 0 4px 18px;
+  padding: 0;
+  border-left: 2px dashed #b2dfdf;
+}
+
+.submenuList li {
+  position: relative;
+}
+
+.submenuList li a {
+  display: block;
+  padding: 5px 8px 5px 16px;
+  color: #6b7280;
+  font-size: 13px;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.submenuList li a:hover {
+  color: #0ea5a4;
+}
+
+/* Active sub-item dot */
+.activeSubItem > a {
+  color: #0ea5a4 !important;
+  font-weight: 600;
+}
+
+.activeSubItem::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #0ea5a4;
+  z-index: 1;
+}
+
+/* ================= CONTENT ================= */
+.content {
+  margin-left: 290px;
+  padding: 32px 40px;
+  transition: margin-left 0.3s ease;
+  min-width: 0;
+  width: calc(100% - 290px);
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.contentExpanded {
+  margin-left: 80px;
+  width: calc(100% - 80px);
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 768px) {
+  .iconSidebar {
+    display: none;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .content {
+    margin-left: 0;
+    width: 100%;
+    padding: 16px;
+  }
+
+  .contentExpanded {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .topbar {
+    padding: 0 12px;
+  }
+
+  .topRight {
+    gap: 6px;
+  }
+
+  .ticketBtn {
+    display: none;
+  }
+
+  .viewSelect {
+    display: none;
+  }
+
+  .ticketBtn,
+  .profileBtn {
+    padding: 6px 10px;
+    font-size: 11px;
+  }
+}

@@ -1,0 +1,245 @@
+body {
+  font-family: "Segoe UI", Arial;
+  background: #f5f6f7;
+}
+
+/* MAIN CONTAINER */
+.container {
+  width: 92%;
+  margin: 30px auto;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 25px;
+}
+
+/* TITLE */
+h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.sub-title {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 20px;
+}
+
+/* CARD */
+.card {
+  background: #eeeeee;
+  padding: 25px;
+  border-radius: 14px;
+}
+
+/* SECTION TITLE */
+h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* INPUT TEXT */
+input[type="text"] {
+  width: 320px;
+  padding: 10px;
+  border: 2px solid #00a99d;
+  border-radius: 8px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  outline: none;
+}
+
+/* TIME INPUT (UI LIKE SCREENSHOT) */
+input[type="time"] {
+  width: 160px;
+  padding: 10px;
+  border: 2px solid #00a99d;
+  border-radius: 8px;
+  margin: 0 10px;
+  background: #fff;
+  cursor: pointer;
+}
+
+/* REMOVE DEFAULT ICON (FOR CLEAN LOOK) */
+input[type="time"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* DAY ROW */
+.day-row {
+  display: flex;
+  align-items: center;
+  margin: 18px 0;
+  gap: 15px;
+}
+
+/* DAY LABEL */
+.day-row label {
+  width: 60px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* CHECKBOX STYLE (SQUARE LIKE IMAGE) */
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  border: 2px solid #00a99d;
+  border-radius: 4px;
+  appearance: none;
+  cursor: pointer;
+  position: relative;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #00a99d;
+}
+
+input[type="checkbox"]:checked::after {
+  content: "✔";
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  left: 2px;
+  top: -1px;
+}
+
+/* RADIO GROUP */
+.radio-group {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+/* RADIO BUTTON CUSTOM (CIRCLE STYLE LIKE IMAGE) */
+.radio-group input[type="radio"] {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #00a99d;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+}
+
+.radio-group input[type="radio"]:checked {
+  border: 5px solid #00a99d;
+}
+
+/* BUTTONS */
+button {
+  padding: 12px 22px;
+  border-radius: 8px;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* NEXT BUTTON */
+.next-btn {
+  background: #00a99d;
+  color: white;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+/* CANCEL BUTTON */
+.cancel-btn {
+  background: #e0e0e0;
+  color: #333;
+}
+
+/* CATEGORY BOX */
+.category-box {
+  background: #ffffff;
+  border-radius: 12px;
+  margin: 15px 0;
+  padding: 12px;
+}
+
+/* CATEGORY HEADER */
+.category-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* CATEGORY NAME */
+.cat-name {
+  flex: 1;
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+/* DROPDOWN ICON */
+.dropdown-icon {
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* ITEM LIST */
+.item-list {
+  margin-top: 10px;
+  margin-left: 25px;
+}
+
+/* ITEM ROW */
+.item-row {
+  margin: 6px 0;
+}
+
+/* HEADER ALIGN */
+.category-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f3f3f3;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+/* LEFT SIDE */
+.left-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* CATEGORY NAME */
+.cat-name {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+/* DROPDOWN ICON */
+.dropdown-icon {
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* ROTATE WHEN OPEN */
+.dropdown-icon.rotate {
+  transform: rotate(180deg);
+}
+
+/* ITEM LIST */
+.item-list {
+  margin-top: 10px;
+  padding-left: 40px;
+}
+
+/* ITEM ROW */
+.item-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+}
+
+/* BUTTON SPACING */
+.next-btn {
+  margin-right: 10px;
+}

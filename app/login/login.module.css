@@ -1,0 +1,298 @@
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* LEFT PANEL */
+.leftPanel {
+  width: 50%;
+  background-color: #19b89e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+  padding-top: 30px;
+}
+
+.sliderLogo {
+  text-align: center;
+  margin-bottom: 10px;
+  z-index: 2;
+}
+
+.sliderLogoText {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.sliderWrapper {
+  width: 100%;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slideActive {
+  opacity: 1;
+}
+
+.slideImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.dots {
+  display: flex;
+  gap: 8px;
+  padding: 18px 0 22px;
+  z-index: 2;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.45);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.3s ease;
+}
+
+.dotActive {
+  width: 28px;
+  border-radius: 4px;
+  background: #ffffff;
+}
+
+/* RIGHT PANEL */
+.rightPanel {
+  width: 50%;
+  background-color: #f9f9f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 30px;
+}
+
+.formCard {
+  width: 100%;
+  max-width: 460px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.logoCircle {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 2.5px solid #19b89e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.logoTextGroup {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
+.logoFood {
+  font-size: 18px;
+  font-weight: 900;
+  color: #222;
+  letter-spacing: 1px;
+}
+
+.logoO {
+  color: #19b89e;
+}
+
+.logoChow {
+  font-size: 18px;
+  font-weight: 900;
+  color: #222;
+  letter-spacing: 2px;
+}
+
+.welcomeTitle {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.fieldGroup {
+  width: 100%;
+  margin-bottom: 18px;
+}
+
+.label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.input {
+  width: 100%;
+  padding: 13px 16px;
+  background: #eef0f5;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #333;
+  outline: none;
+  transition: box-shadow 0.2s;
+}
+
+.input:focus {
+  box-shadow: 0 0 0 2px #19b89e55;
+}
+
+.passwordWrapper {
+  position: relative;
+}
+
+.passwordWrapper .input {
+  padding-right: 44px;
+}
+
+.eyeBtn {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+.forgotRow {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+
+.forgotLink {
+  font-size: 13px;
+  color: #19b89e;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.forgotLink:hover {
+  text-decoration: underline;
+}
+
+.rememberRow {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 22px;
+}
+
+.checkbox {
+  width: 16px;
+  height: 16px;
+  accent-color: #19b89e;
+  cursor: pointer;
+}
+
+.rememberLabel {
+  font-size: 14px;
+  color: #444;
+  cursor: pointer;
+}
+
+.loginBtn {
+  width: 100%;
+  padding: 15px;
+  background-color: #19b89e;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s;
+  margin-bottom: 20px;
+}
+
+.loginBtn:hover {
+  background-color: #14a48c;
+}
+
+.loginBtn:active {
+  transform: scale(0.98);
+}
+
+.signupText {
+  font-size: 14px;
+  color: #555;
+}
+
+.signupLink {
+  color: #19b89e;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.signupLink:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .leftPanel {
+    width: 100%;
+    height: 45vh;
+  }
+  .rightPanel {
+    width: 100%;
+    height: 55vh;
+    padding: 24px 20px;
+  }
+}
